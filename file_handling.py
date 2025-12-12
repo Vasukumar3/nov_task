@@ -86,8 +86,8 @@
 # 2.gtts
 
 
-import PyPDF2
-import gtts
+# import PyPDF2
+# import gtts
 
 
 # to install 3rd party dependencies
@@ -96,3 +96,4 @@ import gtts
 # 2.activate it
 # 3. install the dependencies in that env () by using pip tool)
 # 4. import dependencies
+print("welcome to pythonlife")
